@@ -1,0 +1,6 @@
+G:\Консольные приложения C#\wordBinary\bin\Release\wordBinary.exe.config
+G:\Консольные приложения C#\wordBinary\bin\Release\wordBinary.exe
+G:\Консольные приложения C#\wordBinary\bin\Release\wordBinary.pdb
+G:\Консольные приложения C#\wordBinary\obj\Release\wordBinary.csprojAssemblyReference.cache
+G:\Консольные приложения C#\wordBinary\obj\Release\wordBinary.exe
+G:\Консольные приложения C#\wordBinary\obj\Release\wordBinary.pdb
